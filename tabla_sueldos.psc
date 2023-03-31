@@ -39,4 +39,6 @@ Algoritmo tabla_sueldos
 		
 	FinPara
 	
+	// este mensaje debe actualizarse en GitHub
+	
 FinAlgoritmo
